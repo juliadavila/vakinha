@@ -1,3 +1,7 @@
+English Version: [GoFundMe-en_US.md](GoFundMe-en_US.md)
+
+# Ajude uma futura engenheira a fazer mestrado em Energias renováveis
+
 Olá, meu nome é Júlia e conto com a ajuda de vocês para fazer um mestrado na França. Sou estudante de engenharia elétrica da Ufes e me formo em agosto de 2019. O curso é ofertado pela École Polytechnique e tem duração de 1 ano. O tema é super legal: **Renewable Energy Science & Technology (REST)**.
 
 Em 2016 fui bolsista CAPES-Brafitec e tive a oportunidade de realizar um intercâmbio em Paris e acabou sendo uma das experiências mais importantes da minha vida.
@@ -20,6 +24,3 @@ Então resolvi criar essa vakinha para conseguir ajuda e cobrir os custos inicia
  [Infos gerais](https://www.polytechnique.edu/fr/master-energie)
  
  [Mais infos](https://portail.polytechnique.edu/master-renewable-energy-science-and-technology/)
-
-
-### Em breve versão em inglês!
